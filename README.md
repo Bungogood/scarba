@@ -1,5 +1,7 @@
 # Scarba
 
+![Build](https://github.com/Bungogood/scarba/actions/workflows/make.yml/badge.svg)
+
 A C++(20) Chess Engine
 
 ## References
