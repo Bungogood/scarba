@@ -29,4 +29,4 @@ $(TARGET): $(OBJECTS)
 	$(CXX) $^ -o $@
 
 clean:
-	rm -f $(OBJECTS) $(TARGET)
+	rm -rf $(OBJ_DIR) $(TARGET)
